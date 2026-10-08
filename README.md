@@ -2,7 +2,7 @@
 
 ## Overview
 
-Coursework focused on using Python and data analysis techniques to investigate Amazon stock performance and explore data-driven change management in the FinTech industry.
+Coursework 2 focused on using Python and data analysis techniques to investigate Amazon stock performance and explore data-driven change management in the FinTech industry.
 
 ## Key Areas
 
